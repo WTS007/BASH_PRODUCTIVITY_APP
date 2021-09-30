@@ -22,9 +22,11 @@
 
 # USAGE INSTRUCTION
 $ ./bp.sh 
+
 The above command from your "HOME" directory will start the Productivity APP.
 
-After the installation process is complete ther will be two or three files namely "bp.sh" , "custom_command.sh" and "tmpp.txt" in your home directory and those files are necessary for the proper functioning of the APP. DURING INSTALL PROCESS YOU WILL BE ASKED IF YOU WANT TO ADD CUSTOM COMMAND IN GNOME-TERMINAL AND IF YOU AGREED THEN "custom_command.sh" WILL BE COPIED TO THE PARENT DIRECTORY BY THE SCRIPT AND YOU JUST HAVE TO ADD IT IN THE PREFERENCES AS SHOWN IN THE SCREENSHOT BELOW.
+After the installation process is complete there will be two or three files namely "bp.sh" , "custom_command.sh" and "tmpp.txt" in your home directory and those files are necessary for the proper functioning of the APP. 
+DURING INSTALL PROCESS YOU WILL BE ASKED IF YOU WANT TO ADD CUSTOM COMMAND IN GNOME-TERMINAL AND IF YOU AGREED THEN "custom_command.sh" WILL BE COPIED TO THE PARENT DIRECTORY BY THE SCRIPT AND YOU JUST HAVE TO ADD IT IN THE PREFERENCES AS SHOWN IN THE SCREENSHOT BELOW.
 
 You can lauch the app in the Gnome-terminal from the Home directory by using the following command "$ bp.sh" and for that you have to do the following:
 ADD THE "./custom_command.sh" TO THE CUSTOM COMMAND BOX, WHICH CAN BE ACCESSED FROM EDIT>PREFERENCES
