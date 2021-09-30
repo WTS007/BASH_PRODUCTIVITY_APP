@@ -30,6 +30,7 @@ DURING INSTALL PROCESS YOU WILL BE ASKED IF YOU WANT TO ADD CUSTOM COMMAND IN GN
 
 You can lauch the app in the Gnome-terminal from the Home directory by using the following command "$ bp.sh" and for that you have to do the following:
 ADD THE "./custom_command.sh" TO THE CUSTOM COMMAND BOX, WHICH CAN BE ACCESSED FROM EDIT>PREFERENCES
+
 ![alt tag](https://user-images.githubusercontent.com/85397632/127916720-9fcabe99-4c67-496e-a11d-e2918cfa2200.png "INSTEAD OF ./custom_cmd.sh IT WILL BE ./custom_command.sh")
 
 "INSTEAD OF ./custom_cmd.sh" IT WILL BE "./custom_command.sh"
